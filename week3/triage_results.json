@@ -1,0 +1,222 @@
+{
+  "N-01": {
+    "ticket_id": "N-01",
+    "category": "网络",
+    "priority": "P2",
+    "confidence": 1.0,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets H-001, H-002, and H-003 indicate that VPN connection issues fall under the '网络' category with 'P2' priority. Resolution involves resetting the VPN gateway session and updating the client certificate.",
+    "ts": "2026-11-02T16:12:22"
+  },
+  "N-17": {
+    "ticket_id": "N-17",
+    "category": "权限",
+    "priority": "P3",
+    "confidence": 0.5,
+    "team": "权限审批组",
+    "action": "suggestion_only",
+    "status": "pending_approval",
+    "reasoning": "Similar resolved tickets suggest category 权限 (权限) and priority P4. However, due to the urgency mentioned in the ticket, the priority is set to P3. Evidence is thin and conflicting, so confidence is set below 0.6.",
+    "ts": "2026-11-02T16:16:39"
+  },
+  "N-02": {
+    "ticket_id": "N-02",
+    "category": "网络",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Impact scope: single department (法务部), urgency: high. Similar resolved tickets H-021, H-022, H-023 were classified as '网络' with priority 'P3'.",
+    "ts": "2026-11-02T16:12:44"
+  },
+  "N-03": {
+    "ticket_id": "N-03",
+    "category": "网络",
+    "priority": "P1",
+    "confidence": 0.9,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets H-001, H-002, H-003 were classified as '网络' with priority P2. The impact scope is whole company and the urgency is high as it affects all departments. This aligns with the SLA priority rules.",
+    "ts": "2026-11-02T16:13:01"
+  },
+  "N-04": {
+    "ticket_id": "N-04",
+    "category": "网络",
+    "priority": "P4",
+    "confidence": 0.8,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest that the issue is related to network connectivity.",
+    "ts": "2026-11-02T16:13:14"
+  },
+  "N-05": {
+    "ticket_id": "N-05",
+    "category": "网络",
+    "priority": "P2",
+    "confidence": 0.8,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest VPN connection issues were classified as '网络' and 'P2'.",
+    "ts": "2026-11-02T16:13:28"
+  },
+  "N-06": {
+    "ticket_id": "N-06",
+    "category": "账号",
+    "priority": "P3",
+    "confidence": 1.0,
+    "team": "账号与身份组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest account settings or configurations are the issue, similar to H-072 and H-033. Priority is set to P3 as per SLA rules.",
+    "ts": "2026-11-02T16:13:47"
+  },
+  "N-07": {
+    "ticket_id": "N-07",
+    "category": "账号",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "账号与身份组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets H-025, H-026, and H-027 were classified under '账号' with priority 'P3'.",
+    "ts": "2026-11-02T16:14:05"
+  },
+  "N-08": {
+    "ticket_id": "N-08",
+    "category": "账号",
+    "priority": "P2",
+    "confidence": 0.9,
+    "team": "账号与身份组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets H-029, H-030, and H-031 were classified as 账号 with priority P2 and resolved by immediately disabling the account and revoking all system permissions, and synchronizing with the personnel to check the list of departing employees.",
+    "ts": "2026-11-02T16:14:24"
+  },
+  "N-09": {
+    "ticket_id": "N-09",
+    "category": "软件",
+    "priority": "P2",
+    "confidence": 0.8,
+    "team": "应用支持组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets H-054, H-053, and H-055 were classified as '软件' with priority 'P2'.",
+    "ts": "2026-11-02T16:14:36"
+  },
+  "N-10": {
+    "ticket_id": "N-10",
+    "category": "软件",
+    "priority": "P4",
+    "confidence": 0.8,
+    "team": "应用支持组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets (H-057, H-058, H-059) were classified as software issues with a priority of P4. The impact scope is single user, and the urgency is low as the user can still edit documents despite the activation prompt.",
+    "ts": "2026-11-02T16:14:50"
+  },
+  "N-11": {
+    "ticket_id": "N-11",
+    "category": "软件",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "应用支持组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest it could be related to browser plugins or security settings.",
+    "ts": "2026-11-02T16:15:04"
+  },
+  "N-12": {
+    "ticket_id": "N-12",
+    "category": "软件",
+    "priority": "P2",
+    "confidence": 0.8,
+    "team": "应用支持组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "The ticket is related to a software problem and the impact is limited to a single user. Similar resolved tickets were classified as network issues with a priority of P1, but these tickets involved network disruptions rather than software issues.",
+    "ts": "2026-11-02T16:15:20"
+  },
+  "N-13": {
+    "ticket_id": "N-13",
+    "category": "硬件",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "桌面运维组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest hardware issues with laptops, such as display problems or failure to turn on, which aligns with the current ticket. The urgency is high due to the impact on the user's work.",
+    "ts": "2026-11-02T16:15:34"
+  },
+  "N-14": {
+    "ticket_id": "N-14",
+    "category": "硬件",
+    "priority": "P4",
+    "confidence": 0.8,
+    "team": "桌面运维组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets were categorized as hardware issues and resolved by the Desktop Operations Team. Impact scope is limited to a single layer, and urgency is low.",
+    "ts": "2026-11-02T16:15:51"
+  },
+  "N-15": {
+    "ticket_id": "N-15",
+    "category": "硬件",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "桌面运维组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved hardware tickets suggest this issue is related to hardware and can be resolved by the desktop operations team.",
+    "ts": "2026-11-02T16:16:07"
+  },
+  "N-16": {
+    "ticket_id": "N-16",
+    "category": "硬件",
+    "priority": "P2",
+    "confidence": 0.9,
+    "team": "桌面运维组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets suggest hardware issue, such as SSD replacement. Ticket N-16 involves frequent system crashes and potential data loss, indicating a high urgency for resolution.",
+    "ts": "2026-11-02T16:16:22"
+  },
+  "N-18": {
+    "ticket_id": "N-18",
+    "category": "权限",
+    "priority": "P4",
+    "confidence": 0.8,
+    "team": "权限审批组",
+    "action": "suggestion_only",
+    "status": "pending_approval",
+    "reasoning": "Similar resolved tickets were classified under the category of '权限' with a priority of 'P4'.",
+    "ts": "2026-11-02T16:16:58"
+  },
+  "N-19": {
+    "ticket_id": "N-19",
+    "category": "网络",
+    "priority": "P3",
+    "confidence": 0.8,
+    "team": "网络组",
+    "action": "assigned",
+    "status": "triaged",
+    "reasoning": "Similar resolved tickets were classified under '网络' with a priority of 'P3'.",
+    "ts": "2026-11-02T16:17:16"
+  },
+  "N-20": {
+    "ticket_id": "N-20",
+    "category": "权限",
+    "priority": "P2",
+    "confidence": 0.9,
+    "team": "权限审批组",
+    "action": "suggestion_only",
+    "status": "pending_approval",
+    "reasoning": "Similar resolved tickets (H-113, H-114, H-115) were classified as '权限' with 'P2' priority.",
+    "ts": "2026-11-02T16:17:35"
+  }
+}

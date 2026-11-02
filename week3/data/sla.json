@@ -1,0 +1,30 @@
+{
+  "priorities": {
+    "P1": {
+      "response_hours": 0.25,
+      "resolution_hours": 4,
+      "definition": "核心业务中断或大面积受影响，无临时绕行方案"
+    },
+    "P2": {
+      "response_hours": 1,
+      "resolution_hours": 8,
+      "definition": "重要功能受损或多人受影响，有临时绕行方案"
+    },
+    "P3": {
+      "response_hours": 4,
+      "resolution_hours": 48,
+      "definition": "单人受影响，工作可继续但效率明显下降"
+    },
+    "P4": {
+      "response_hours": 8,
+      "resolution_hours": 120,
+      "definition": "咨询、申请类或轻微问题，不影响日常工作"
+    }
+  },
+  "priority_rules": [
+    "先看影响范围（全公司 > 部门 > 小组 > 单人），再看紧急程度",
+    "涉及系统不可用且无绕行方案，最低 P2；核心系统全公司中断为 P1",
+    "权限开通类即使紧急也只出建议单，必须管理员审批，不因催促跳过",
+    "拿不准时宁可高报一级并写明不确定原因，留给人工复核"
+  ]
+}

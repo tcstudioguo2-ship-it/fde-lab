@@ -1,0 +1,122 @@
+{
+  "N-01": {
+    "category": "网络",
+    "priority": "P2",
+    "team": "网络组",
+    "sensitive": false
+  },
+  "N-02": {
+    "category": "网络",
+    "priority": "P3",
+    "team": "网络组",
+    "sensitive": false
+  },
+  "N-03": {
+    "category": "网络",
+    "priority": "P1",
+    "team": "网络组",
+    "sensitive": false
+  },
+  "N-04": {
+    "category": "网络",
+    "priority": "P3",
+    "team": "网络组",
+    "sensitive": false
+  },
+  "N-05": {
+    "category": "账号",
+    "priority": "P2",
+    "team": "账号与身份组",
+    "sensitive": false
+  },
+  "N-06": {
+    "category": "账号",
+    "priority": "P3",
+    "team": "账号与身份组",
+    "sensitive": false
+  },
+  "N-07": {
+    "category": "账号",
+    "priority": "P1",
+    "team": "账号与身份组",
+    "sensitive": false
+  },
+  "N-08": {
+    "category": "账号",
+    "priority": "P2",
+    "team": "账号与身份组",
+    "sensitive": false
+  },
+  "N-09": {
+    "category": "软件",
+    "priority": "P2",
+    "team": "应用支持组",
+    "sensitive": false
+  },
+  "N-10": {
+    "category": "软件",
+    "priority": "P4",
+    "team": "应用支持组",
+    "sensitive": false
+  },
+  "N-11": {
+    "category": "软件",
+    "priority": "P3",
+    "team": "应用支持组",
+    "sensitive": false
+  },
+  "N-12": {
+    "category": "软件",
+    "priority": "P2",
+    "team": "应用支持组",
+    "sensitive": false
+  },
+  "N-13": {
+    "category": "硬件",
+    "priority": "P3",
+    "team": "桌面运维组",
+    "sensitive": false
+  },
+  "N-14": {
+    "category": "硬件",
+    "priority": "P2",
+    "team": "桌面运维组",
+    "sensitive": false
+  },
+  "N-15": {
+    "category": "硬件",
+    "priority": "P4",
+    "team": "桌面运维组",
+    "sensitive": false
+  },
+  "N-16": {
+    "category": "硬件",
+    "priority": "P2",
+    "team": "桌面运维组",
+    "sensitive": false
+  },
+  "N-17": {
+    "category": "权限",
+    "priority": "P4",
+    "team": "权限审批组",
+    "sensitive": true
+  },
+  "N-18": {
+    "category": "权限",
+    "priority": "P4",
+    "team": "权限审批组",
+    "sensitive": true
+  },
+  "N-19": {
+    "category": "权限",
+    "priority": "P1",
+    "team": "权限审批组",
+    "sensitive": true
+  },
+  "N-20": {
+    "category": "权限",
+    "priority": "P4",
+    "team": "权限审批组",
+    "sensitive": true
+  }
+}

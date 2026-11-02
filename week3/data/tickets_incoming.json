@@ -1,0 +1,182 @@
+[
+  {
+    "id": "N-01",
+    "created_at": "2026-11-02",
+    "requester": "刘洋",
+    "department": "人力资源部",
+    "title": "家里宽带下 VPN 一直断",
+    "description": "在家办公连 VPN 大约十分钟就断一次，重启路由器也没用，内网系统用不了。",
+    "status": "new"
+  },
+  {
+    "id": "N-02",
+    "created_at": "2026-11-02",
+    "requester": "黄磊",
+    "department": "法务部",
+    "title": "会议室网速特别慢",
+    "description": "今天下午评审会，会议室里打开在线文档要等很久，其他楼层同事说正常。",
+    "status": "new"
+  },
+  {
+    "id": "N-03",
+    "created_at": "2026-11-02",
+    "requester": "马雪",
+    "department": "财务部",
+    "title": "全公司内网打不开",
+    "description": "从十分钟前开始，所有内网系统都打不开，外网正常，全公司多人反馈。",
+    "status": "new"
+  },
+  {
+    "id": "N-04",
+    "created_at": "2026-11-02",
+    "requester": "张伟",
+    "department": "财务部",
+    "title": "工位有线和无线都不行",
+    "description": "我工位的网线插上没反应，无线也连不上公司的 SSID，手机热点可以。",
+    "status": "new"
+  },
+  {
+    "id": "N-05",
+    "created_at": "2026-11-02",
+    "requester": "刘洋",
+    "department": "人力资源部",
+    "title": "账号被锁急等开会材料",
+    "description": "账号被锁定了，半小时后要给客户汇报，材料都在 OA 里打不开。",
+    "status": "new"
+  },
+  {
+    "id": "N-06",
+    "created_at": "2026-11-02",
+    "requester": "黄磊",
+    "department": "法务部",
+    "title": "新同事邮箱收不到外部邮件",
+    "description": "新同事内部邮件正常，但客户的外部邮件一直收不到，已确认对方发送成功。",
+    "status": "new"
+  },
+  {
+    "id": "N-07",
+    "created_at": "2026-11-02",
+    "requester": "马雪",
+    "department": "财务部",
+    "title": "怀疑账号被盗",
+    "description": "我收到异地登录提醒，但我今天一直在本市上班，麻烦赶紧处理。",
+    "status": "new"
+  },
+  {
+    "id": "N-08",
+    "created_at": "2026-11-02",
+    "requester": "张伟",
+    "department": "财务部",
+    "title": "离职交接发现账号共用",
+    "description": "交接时发现前任把账号密码写在便签上，团队里好几个人都知道。",
+    "status": "new"
+  },
+  {
+    "id": "N-09",
+    "created_at": "2026-11-02",
+    "requester": "刘洋",
+    "department": "人力资源部",
+    "title": "报销系统提交就报错",
+    "description": "报销单点提交就报系统异常，同部门三个人都这样，本周要截止了。",
+    "status": "new"
+  },
+  {
+    "id": "N-10",
+    "created_at": "2026-11-02",
+    "requester": "黄磊",
+    "department": "法务部",
+    "title": "电脑总是弹激活窗口",
+    "description": "Word 隔一会儿就弹未激活提示，还能编辑，就是很烦。",
+    "status": "new"
+  },
+  {
+    "id": "N-11",
+    "created_at": "2026-11-02",
+    "requester": "马雪",
+    "department": "财务部",
+    "title": "OA 附件预览空白",
+    "description": "OA 里的 PDF 附件预览全是空白，下载下来打开正常。",
+    "status": "new"
+  },
+  {
+    "id": "N-12",
+    "created_at": "2026-11-02",
+    "requester": "张伟",
+    "department": "财务部",
+    "title": "杀毒软件把业务程序删了",
+    "description": "今早杀毒软件更新后，把我们用的检测程序当病毒隔离了，产线在等。",
+    "status": "new"
+  },
+  {
+    "id": "N-13",
+    "created_at": "2026-11-02",
+    "requester": "刘洋",
+    "department": "人力资源部",
+    "title": "笔记本屏幕不亮但有声音",
+    "description": "开机有启动声，屏幕全黑，外接显示器也没画面，手头工作急。",
+    "status": "new"
+  },
+  {
+    "id": "N-14",
+    "created_at": "2026-11-02",
+    "requester": "黄磊",
+    "department": "法务部",
+    "title": "打印机整层不能用",
+    "description": "我们这层唯一的打印机离线了，十几个人等着打合同。",
+    "status": "new"
+  },
+  {
+    "id": "N-15",
+    "created_at": "2026-11-02",
+    "requester": "马雪",
+    "department": "财务部",
+    "title": "键盘进水部分按键失灵",
+    "description": "不小心把水洒键盘上了，右半边按键没反应。",
+    "status": "new"
+  },
+  {
+    "id": "N-16",
+    "created_at": "2026-11-02",
+    "requester": "张伟",
+    "department": "财务部",
+    "title": "电脑频繁蓝屏",
+    "description": "今天已经蓝屏四次了，正在写的方案丢了两次，怕硬盘要坏。",
+    "status": "new"
+  },
+  {
+    "id": "N-17",
+    "created_at": "2026-11-02",
+    "requester": "刘洋",
+    "department": "人力资源部",
+    "title": "急需开通审批权限（主管催办）",
+    "description": "我的主管在电话里催，让我直接找你们先把报销审批权限开上，流程后面补。",
+    "status": "new"
+  },
+  {
+    "id": "N-18",
+    "created_at": "2026-11-02",
+    "requester": "黄磊",
+    "department": "法务部",
+    "title": "项目文件夹需要加人",
+    "description": "新来的项目助理需要看项目共享文件夹，Owner 是我，我确认可以加。",
+    "status": "new"
+  },
+  {
+    "id": "N-19",
+    "created_at": "2026-11-02",
+    "requester": "马雪",
+    "department": "财务部",
+    "title": "发现自己能看全公司工资表",
+    "description": "我在共享盘里发现自己居然能打开全公司的工资明细表，这不对吧？",
+    "status": "new"
+  },
+  {
+    "id": "N-20",
+    "created_at": "2026-11-02",
+    "requester": "张伟",
+    "department": "财务部",
+    "title": "顾问账号需要延期",
+    "description": "外部顾问下周还要驻场，他的系统账号明天到期，需要延期一个月。",
+    "status": "new"
+  }
+]
